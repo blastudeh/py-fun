@@ -1,0 +1,22 @@
+python -m unittest -v tests
+test_division_by_zero (tests.calculator.test_calculator.TestCalculator.test_division_by_zero) ... ok
+test_invalid_factorization (tests.calculator.test_calculator.TestCalculator.test_invalid_factorization) ... ok
+test_languages (tests.calculator.test_calculator.TestCalculator.test_languages) ... ok
+test_numeric_strings (tests.calculator.test_calculator.TestCalculator.test_numeric_strings) ... ok
+test_other_operations (tests.calculator.test_calculator.TestCalculator.test_other_operations) ... ok
+test_prime_factors (tests.calculator.test_calculator.TestCalculator.test_prime_factors) ... ok
+test_singleton (tests.calculator.test_calculator.TestCalculator.test_singleton) ... ok
+test_unknown_word (tests.calculator.test_calculator.TestCalculator.test_unknown_word) ... ok
+test_contains (tests.collection.test_collection.TestCollection.test_contains) ... ok
+test_permutations (tests.collection.test_collection.TestCollection.test_permutations) ... ok
+test_permutations_empty_and_duplicates (tests.collection.test_collection.TestCollection.test_permutations_empty_and_duplicates) ... ok
+test_power_set (tests.collection.test_collection.TestCollection.test_power_set) ... ok
+test_power_set_empty_and_duplicates (tests.collection.test_collection.TestCollection.test_power_set_empty_and_duplicates) ... ok
+test_separate_objects (tests.collection.test_collection.TestCollection.test_separate_objects) ... ok
+test_zip (tests.collection.test_collection.TestCollection.test_zip) ... ok
+test_zip_unequal_and_empty (tests.collection.test_collection.TestCollection.test_zip_unequal_and_empty) ... ok
+
+----------------------------------------------------------------------
+Ran 16 tests in 0.001s
+
+OK
